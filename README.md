@@ -1,2 +1,3 @@
 # vim-zap
-A smart command runner for vim
+
+A smart command runner for Vim.
